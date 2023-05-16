@@ -1,0 +1,28 @@
+img {
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+.cont-product {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    align-items: center;
+
+    p {
+        display: inline-block;
+    }
+}
+
+.estado {
+    background-color: lightblue;
+    padding: 5px 4px;
+}
+
+.precio {
+    font-size: 18px;
+    font-weight: bold;
+}
